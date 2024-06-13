@@ -8,7 +8,9 @@ A simple web calculator that performs basic math operations.
 
 # Installation
 Clone the repository:
-`git clone https://github.com/22-luis/BasiCalculator.git`
+```bash
+git clone https://github.com/22-luis/BasiCalculator.git
+```
 
 And open the document: index.html
 
